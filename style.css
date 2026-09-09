@@ -12,3 +12,14 @@ ul {
     display: flex;
     gap: 30px;
 }
+main{
+    display: flex;
+    justify-content: center;
+}
+
+.conteudo{
+    max-width: 400px;
+}
+#paragrafoazul {
+    color: cyan;
+}
