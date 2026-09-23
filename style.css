@@ -23,3 +23,26 @@ main{
 #paragrafoazul {
     color: cyan;
 }
+.class{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    border-bottom: 3px solid #ccc;
+    padding-bottom: 80px;
+}
+.preto {
+    background-color: black;
+    color: white;
+    padding: 8px;
+    border-radius: 800px;
+}
+.cinza {
+    background-color: #ccc;
+    padding: 8px;
+    border-radius: 800px;
+}
+.links{
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
